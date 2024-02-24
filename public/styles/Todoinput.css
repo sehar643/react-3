@@ -1,0 +1,29 @@
+.todo{
+    color: purple;
+    font-weight: 900;
+    font-size: xx-large;
+}
+
+.input{
+    height: 40px;
+    width: 400px;
+    border-radius: 20px;
+    border: 2px solid black;
+    margin-left: 70px;
+}
+
+.btn{
+    height: 45px;
+    width: 80px;
+    margin-left: 10px;
+    border-radius: 40px;
+    background-color: rgb(220, 113, 193);
+    font-weight: bolder;
+    font-size: 16px;
+}
+
+.btn:hover{
+    background-color: rgb(168, 25, 168);
+    cursor: pointer;
+    color: white;
+}
